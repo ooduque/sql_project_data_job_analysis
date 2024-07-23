@@ -23,3 +23,10 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10
+
+/*
+High Salary Range: Top-paying job is Data Analyst at Mantys ($650,000), with senior roles at Meta ($336,500) and AT&T ($255,829.5) also highly compensated.
+Valued Roles: Leadership and specialized roles like Director of Analytics, Associate Director- Data Insights, and Principal Data Analyst are in high demand.
+Flexible Work: All positions are full-time with many offering remote or hybrid options, emphasizing the trend towards flexible work arrangements.
+
+*/

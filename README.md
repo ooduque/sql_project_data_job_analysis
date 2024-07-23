@@ -145,6 +145,7 @@ LIMIT 5
 | Power BI | 2609         |
 
 ![Top Data Analysis Skill in Demand](assets/demand-for-data-analyst-skills.png)
+_Bar chart visualising the top 5 in-demand skills for remote data analysts jobs; Julius.ai generated this graph from my SQL query results_
 
 ## 4. Top Paying Skills
 
